@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Sitemap: none
+
+# This site is a preview mockup — not the real Instagram.
+# Intended path: /inhouz-insta-preview/

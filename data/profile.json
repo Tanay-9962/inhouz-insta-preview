@@ -1,0 +1,381 @@
+{
+  "handle": "inhouz.in",
+  "name": "INHOUZ Colour Coats Furniture",
+  "category": "Furniture store",
+  "bio": "Built Different. Built INHOUZ.",
+  "website_label": "inhouz.in",
+  "website_url": "https://www.inhouz.in/",
+  "avatar": "assets/derived/avatar.thumb.webp",
+  "posts_count_note": "PicMany observed 172 posts and 2,152 followers on 17 Nov 2026. The header adds the 9 new-post slots when the New posts toggle is on (181 with all nine visible). The existing grid shows stand-in tiles, not all 172 real thumbnails, until screenshots land in strategy/ref/ig_grid/.",
+  "followers": "2,152",
+  "following": "1",
+  "highlights": [
+    {
+      "id": "factory",
+      "name": "Factory",
+      "cover": "assets/derived/highlights/craft.thumb.webp",
+      "cover_width": 200,
+      "cover_height": 200
+    },
+    {
+      "id": "furniture",
+      "name": "Furniture",
+      "cover": "assets/derived/highlights/furniture.thumb.webp",
+      "cover_width": 200,
+      "cover_height": 200
+    },
+    {
+      "id": "exhibitions",
+      "name": "Exhibitions",
+      "cover": "assets/derived/highlights/collection.thumb.webp",
+      "cover_width": 200,
+      "cover_height": 200
+    },
+    {
+      "id": "projects",
+      "name": "Projects",
+      "cover": "assets/derived/highlights/showroom.thumb.webp",
+      "cover_width": 200,
+      "cover_height": 200
+    }
+  ],
+  "new_post_slots": 9,
+  "existing_posts": [
+    {
+      "id": "cocoon-armchair",
+      "src": "assets/existing/cocoon-armchair.jpg",
+      "alt": "Cocoon Armchair, cream bouclé with sculptural wooden supports",
+      "caption": "The Cocoon Armchair balances bold, oversized proportions with inviting comfort — thick bouclé, sculptural wooden supports, a silhouette that feels as protective as it looks.",
+      "likes": "214",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "The scale of those arms is beautiful."
+        },
+        {
+          "author": "studio.notes",
+          "text": "Would love this in a reading corner."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 13 (Cocoon Armchair), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "aegon-armchair",
+      "src": "assets/existing/aegon-armchair.jpg",
+      "alt": "Aegon Armchair, sculptural swivel chair on a metal pedestal",
+      "caption": "Aegon Armchair — a sculptural swivel with a floating round seat, cylindrical backrest, and a clean metal pedestal base.",
+      "likes": "189",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "That pedestal is so precise."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 4 (Aegon Armchair), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "milano-armchair",
+      "src": "assets/existing/milano-armchair.jpg",
+      "alt": "Milano Armchair in cream bouclé and purple fluted upholstery",
+      "caption": "Milano Armchair — a fluted back in smooth PU, a soft fabric seat, and metal details that give the piece a modern edge.",
+      "likes": "256",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "The purple channeling is stunning."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 20 (Milano Armchair), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "cashmere-bench",
+      "src": "assets/existing/cashmere-bench.jpg",
+      "alt": "Cashmere Bench with scrolled wooden ends and a cushioned seat",
+      "caption": "Cashmere Bench — scrolled wood, a cushioned top, and a decorative end detail that feels collected rather than decorative for its own sake.",
+      "likes": "173",
+      "comments": [
+        {
+          "author": "studio.notes",
+          "text": "Those scrolled ends are a moment."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 40 (Cashmere Bench), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "glow-bed",
+      "src": "assets/existing/glow-bed.jpg",
+      "alt": "Glow Bed in a dark, curved room with a circular skylight",
+      "caption": "Glow Bed — a fusion of tradition and innovation, designed for those who seek beauty with purpose.",
+      "likes": "341",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "The room and the bed feel like one piece."
+        },
+        {
+          "author": "studio.notes",
+          "text": "That built-in bedside is clever."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 52 (Glow Bed), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "london-sofa",
+      "src": "assets/existing/london-sofa.jpg",
+      "alt": "London Sofa, cream channelled seat with leather-stitched backrest",
+      "caption": "London Sofa — plush fabric seating, a leather-stitched backrest, and a slim metal leg. A modern classic from the collection.",
+      "likes": "298",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "The leather wrap on the arm is perfect."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 142 (London Sofa), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "abacus-coffee-table",
+      "src": "assets/existing/abacus-coffee-table.jpg",
+      "alt": "Round coffee tables with beaded stems and a graphic inlaid top",
+      "caption": "Abacus Coffee Table — a graphic inlaid top held on a beaded stem, playful in detail and grounded in form.",
+      "likes": "162",
+      "comments": [
+        {
+          "author": "studio.notes",
+          "text": "Those beads are a signature."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 70 (Abacus Coffee Table), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "london-console",
+      "src": "assets/existing/london-console.jpg",
+      "alt": "London Console with a marble top, dark wood body and slender metal legs",
+      "caption": "London Console — a marble top, a quiet wood body, and slender metal legs that keep the piece light in a room.",
+      "likes": "147",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "Marble and dark oak is a timeless pairing."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 102 (London Console), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "alexis-dining-chair",
+      "src": "assets/existing/alexis-dining-chair.jpg",
+      "alt": "Alexis Dining Chair in green textured fabric with a wood back shell",
+      "caption": "Alexis Dining Chair — quiet sophistication and cocoon-like comfort, with a sculpted back and a warm wood shell.",
+      "likes": "201",
+      "comments": [
+        {
+          "author": "studio.notes",
+          "text": "That green weave has so much depth."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 118 (Alexis Dining Chair), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "dexter-sideboard",
+      "src": "assets/existing/dexter-sideboard.jpg",
+      "alt": "Dexter Sideboard in dark wood with sculptural gold handles",
+      "caption": "Dexter Sideboard — a rich wood-grain frame and sculptural handles, storage that still feels like a designed object.",
+      "likes": "138",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "The hardware is jewellery."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 174 (Dexter Sideboard), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "abacus-sofa",
+      "src": "assets/existing/abacus-sofa.jpg",
+      "alt": "Abacus Sofa in olive green with a curved arm and ball feet",
+      "caption": "Abacus Sofa — bold curves, tactile upholstery, and a soft pillowed back, grounded on rounded feet.",
+      "likes": "227",
+      "comments": [
+        {
+          "author": "studio.notes",
+          "text": "The olive is so rich in this light."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 128 (Abacus Sofa), square-cropped catalog photo. Not a real Instagram post or caption."
+    },
+    {
+      "id": "swan-lounge",
+      "src": "assets/existing/swan-lounge.jpg",
+      "alt": "Swan Lounge, a low curved seat in cream fabric on a sculpted wood frame",
+      "caption": "Swan Lounge — a low, continuous curve of fabric on a sculpted wood frame. Comfort with a clear silhouette.",
+      "likes": "184",
+      "comments": [
+        {
+          "author": "preview.guest",
+          "text": "Such a calm profile."
+        }
+      ],
+      "stand_in": true,
+      "source": "INHOUZ_collection.pdf, page 25 (Swan Lounge), square-cropped catalog photo. Not a real Instagram post or caption."
+    }
+  ],
+  "field_sources": {
+    "handle": {
+      "status": "real",
+      "value": "@inhouz.in",
+      "source": "Official website footer on https://www.inhouz.in/ links to https://www.instagram.com/inhouz.in/. Also listed on the INHOUZ LinkedIn page and in the PicMany snapshot of 17 Nov 2026 (trends/brief.md). https://inhouz.com/ did not respond (connection timeout)."
+    },
+    "name": {
+      "status": "real",
+      "value": "INHOUZ Colour Coats Furniture",
+      "source": "Display name observed in a PicMany public snapshot of instagram.com/inhouz.in on 17 Nov 2026 (recorded in /workspace/inhouz-social/trends/brief.md). Instagram itself was not readable without logging in. Matches the official brand name (INHOUZ / Colour Coats Furniture) used on inhouz.in and the collection catalog."
+    },
+    "avatar": {
+      "status": "stand-in",
+      "value": "assets/avatar.jpg",
+      "source": "The live Instagram avatar could not be fetched (instagram.com/inhouz.in served a login wall; no public bio/OG image was available). This square is cropped from page 1 of INHOUZ_collection.pdf (official brand wordmark on the catalog cover). A low-resolution copy of the same mark also exists in strategy/ref/profile_pic.jpg."
+    },
+    "bio": {
+      "status": "real",
+      "value": "Built Different. Built INHOUZ.",
+      "source": "Biography observed in a PicMany public snapshot of @inhouz.in on 17 Nov 2026 (trends/brief.md). Not captured from instagram.com itself (login wall). Edit profile.json if the live bio has changed."
+    },
+    "category": {
+      "status": "placeholder",
+      "value": "Furniture store",
+      "source": "Not listed in the PicMany snapshot or on a public Instagram page. Plausible profile category only; edit in profile.json if the live profile uses a different category."
+    },
+    "website_label": {
+      "status": "real",
+      "value": "inhouz.in",
+      "source": "Official site linked from the brand and from LinkedIn. It is likely the Instagram website field, but that field itself was not publicly readable."
+    },
+    "website_url": {
+      "status": "real",
+      "value": "https://www.inhouz.in/",
+      "source": "Official brand website (confirmed). inhouz.com was unreachable at build time."
+    },
+    "followers": {
+      "status": "real",
+      "value": "2,152",
+      "source": "Follower count 2,152 observed in a PicMany public snapshot of @inhouz.in on 17 Nov 2026 (trends/brief.md and strategy/plan.md). Not captured from instagram.com itself (login wall; no Instagram session was used)."
+    },
+    "following": {
+      "status": "real",
+      "value": "1",
+      "source": "Following count observed in a PicMany public snapshot of @inhouz.in on 17 Nov 2026 (trends/brief.md). Not captured from instagram.com itself."
+    },
+    "posts_count": {
+      "status": "real-base-plus-preview",
+      "value": "172 observed, plus 9 new-post slots when the toggle is on",
+      "source": "PicMany snapshot on 17 Nov 2026 reported 172 posts (trends/brief.md). The mockup header shows 172 plus the 9 new-post slots when the toggle is on. The existing grid tiles are catalog stand-ins until real top-row screenshots land in strategy/ref/ig_grid/."
+    },
+    "highlights": {
+      "status": "mixed",
+      "source": "Highlight NAMES (Factory, Furniture, Exhibitions, Projects) were observed in a PicMany public snapshot of @inhouz.in on 17 Nov 2026. Highlight COVER IMAGES are stand-ins cropped from INHOUZ_collection.pdf product photography — the real highlight artwork was not available. Instagram itself was not opened while logged in."
+    },
+    "existing_posts": {
+      "status": "stand-in",
+      "source": "Real Instagram post thumbnails were not available (no Instagram session). products/ was empty. strategy/ref/ig_grid/ is watched: when grid screenshots land, they are cropped into tiles and replace these stand-ins. Until then the grid uses 12 square-cropped product shots from INHOUZ_collection.pdf. strategy/ref/profile_pic.jpg is a low-resolution brand mark (150×150, 2 KB), lower quality than the catalog-cover avatar, so it was not used. The x_*.jpg files are X/Twitter crossposts, not the current Instagram grid, so they were left as reference only rather than presented as existing IG posts. Captions, like counts and comments on stand-in tiles are catalog-derived placeholder text."
+    },
+    "likes_and_comments": {
+      "status": "placeholder",
+      "source": "All like counts and comments are static placeholder text for the detail view. There is no input, no submission, and no data collection."
+    },
+    "planned_posts": {
+      "status": "real-plan",
+      "source": "Grid order is post 1 at top-left through post 9. Post types are taken from posts/manifest.md when that file exists. Otherwise every new post defaults to a 4:5 still (1080×1350), shown as a centre-cropped square tile and 4:5 in the detail view. Multiple stills that share a post number are grouped as one swipeable carousel. Reel and mp4 playback are used only when the manifest explicitly marks a post as a Reel. strategy/plan.md is not used for post types. Captions in captions/post-01_… to post-09_… are matched by post number."
+    }
+  },
+  "posts_count_observed": 172,
+  "planned_posts": [
+    {
+      "slot": 1,
+      "format": "single",
+      "title": "Cocoon Armchair",
+      "hook": "Some chairs you sit on.",
+      "product": "Cocoon Armchair, p.13",
+      "plan_ref": "strategy/plan.md, post 1 — Reel dropped; default is 4:5 still unless manifest.md says otherwise."
+    },
+    {
+      "slot": 2,
+      "format": "carousel",
+      "title": "Pumpkin family",
+      "hook": "One room, three scales",
+      "product": "Pumpkin Sofa p.150, Armchair p.23, Pouff p.196",
+      "plan_ref": "strategy/plan.md, post 2"
+    },
+    {
+      "slot": 3,
+      "format": "single",
+      "title": "INFINITE HERITAGE",
+      "hook": "The Cashmere Collection",
+      "product": "Cashmere Armchair p.14, Cashmere Bench p.40",
+      "plan_ref": "strategy/plan.md, post 3"
+    },
+    {
+      "slot": 4,
+      "format": "single",
+      "title": "Drape Dining Table",
+      "hook": "It looks like fabric. It's metal.",
+      "product": "Drape Dining Table, p.107",
+      "plan_ref": "strategy/plan.md, post 4"
+    },
+    {
+      "slot": 5,
+      "format": "single",
+      "title": "Agni Conference Table",
+      "hook": "The Sound of Design / Sacred Geometry",
+      "product": "Agni Conference Table, p.201",
+      "plan_ref": "strategy/plan.md, post 5 (grid centre) — Reel dropped; default is 4:5 still unless manifest.md says otherwise."
+    },
+    {
+      "slot": 6,
+      "format": "carousel",
+      "title": "Rani family",
+      "hook": "Every room needs a queen.",
+      "product": "Rani Console p.103, Sideboard p.186, Side Table p.161",
+      "plan_ref": "strategy/plan.md, post 6"
+    },
+    {
+      "slot": 7,
+      "format": "carousel",
+      "title": "INFINITE SOLIDITY",
+      "hook": "The Jorden Collection",
+      "product": "Jorden Dining Table p.112, Jorden Console p.98",
+      "plan_ref": "strategy/plan.md, post 7"
+    },
+    {
+      "slot": 8,
+      "format": "carousel",
+      "title": "Lotus Pouff",
+      "hook": "One silhouette. Four colours.",
+      "product": "Lotus Pouff, p.195",
+      "plan_ref": "strategy/plan.md, post 8"
+    },
+    {
+      "slot": 9,
+      "format": "single",
+      "title": "INHOUZ Store / Swan Lounge",
+      "hook": "Walk the Lower Parel store",
+      "product": "Showroom tour ending on Swan Lounge, p.25",
+      "plan_ref": "strategy/plan.md, post 9 — Reel dropped; default is 4:5 still unless manifest.md says otherwise."
+    }
+  ],
+  "avatar_thumb": "assets/derived/avatar.thumb.webp",
+  "avatar_detail": "assets/derived/avatar.detail.webp",
+  "avatar_srcset": "assets/derived/avatar.thumb.webp 200w, assets/derived/avatar.detail.webp 400w",
+  "avatar_width": 200,
+  "avatar_height": 200
+}
