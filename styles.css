@@ -27,18 +27,29 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html, body {
   height: 100%;
-  overflow-x: hidden;
+  height: 100dvh;
+  overflow: hidden;
   max-width: 100%;
 }
 body {
   font-family: var(--font);
   color: var(--text);
   background: var(--bg-page);
-  min-height: 100vh;
-  min-height: 100dvh;
+  min-height: 100%;
   -webkit-font-smoothing: antialiased;
   padding-left: var(--safe-left);
   padding-right: var(--safe-right);
+}
+.app-scroll {
+  position: fixed;
+  top: var(--banner-total);
+  bottom: var(--toggle-space);
+  left: 0;
+  right: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
 }
 
 img, video { max-width: 100%; display: block; }
@@ -91,7 +102,7 @@ code { font-size: 0.92em; }
 .sources-panel {
   max-width: min(720px, 100%);
   margin: 0 auto;
-  margin-top: var(--banner-total);
+  margin-top: 0;
   padding: 16px 16px 20px;
   background: #f7f4ef;
   color: #1c1612;
@@ -119,7 +130,7 @@ code { font-size: 0.92em; }
 .stage {
   display: flex;
   justify-content: center;
-  padding: calc(24px + var(--banner-total)) 12px var(--toggle-space);
+  padding: 24px 12px 16px;
   max-width: 100%;
   overflow-x: hidden;
 }
@@ -496,7 +507,7 @@ code { font-size: 0.92em; }
 
 @media (max-width: 479px) {
   body { background: var(--bg); }
-  .stage { padding: var(--banner-total) 0 var(--toggle-space); }
+  .stage { padding: 0 0 8px; }
   .phone { box-shadow: none; max-width: none; }
   .toggle-dock { background: var(--bg); }
 }
